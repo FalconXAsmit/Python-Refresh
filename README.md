@@ -13,7 +13,7 @@ Here's the roadmap. Each file is a self-contained module focusing on a specific 
 - **Part 1: The Fundamentals**
 
   - [x] `01_variables_and_types.py` - The building blocks of data.
-  - [ ] `02_lists_and_tuples.py` - Mastering sequence data.
+  - [x] `02_lists_and_tuples.py` - Mastering sequence data.
   - [ ] `03_dictionaries_and_sets.py` - Understanding key-value pairs and unique collections.
   - [ ] `04_conditionals.py` - Making decisions with code.
   - [ ] `05_loops.py` - Repeating actions efficiently.

@@ -1,6 +1,6 @@
 # The Ultimate Python Refresh 🐍
 
-Welcome to my personal coding dojo! This repository is my live-action journey of mastering the Python language, from the absolute fundamentals to its most powerful, advanced features. Think of it as my training ground for writing clean, efficient, and truly "Pythonic" code.
+Welcome to my personal coding refresh! This repository is my journey of mastering the Python language, from the absolute fundamentals to its most powerful, advanced features. Think of it as my training ground for writing clean, efficient, and truly "Pythonic" code.
 
 The goal? To build an unshakable foundation in Python, preparing me for any challenge in software development, data science, or automation.
 

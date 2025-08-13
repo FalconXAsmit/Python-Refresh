@@ -10,7 +10,9 @@ character_stats = {
     "SP": 500,
 }
 
-# Accessing values in a dictionary is done using the key.
+# Accessing values in a dictionary is done using the key. 
+print(character_stats["name"])  # Output: Joker
+# We can also use the get method to avoid KeyError if the key does not exist.
 print(character_stats.get("name"))  # Output: Joker
 
 # Add a new key-value pair to the dictionary.

@@ -40,7 +40,6 @@ party = ["Joker", "Ryuji", "Ann", "Makoto"]
 characher_to_check = "Akechi"
 # We can use the 'in' keyword to check if a character is in the party list.
 # This is a more pythonic way to check membership in a list.
-# It is more readable and concise than using a loop or other methods.
 if characher_to_check in party:
     # This f"" is called a f-string, it allows to embed expressions inside string, using curly braces `{}`.
     print(f"{characher_to_check} is in the party.") 
